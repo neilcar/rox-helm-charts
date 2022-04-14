@@ -75,7 +75,7 @@ StackRox Kubernetes Security Platform version 3.0.55.0, view the instructions in
 > please use the [secured cluster services chart](#secured-cluster-services-chart) described above.
 
 After [installing StackRox
-Central](https://install.stackrox.com/docs/get-started/quick-start-helm/), you can use the Sensor
+Central](https://docs.openshift.com/acs/installing/installing_helm/install-helm-quick.html), you can use the Sensor
 Helm chart to install Sensor, Collector, and Admission Controller. You can use Sensor Helm chart
 independently of the installation method you've chosen to install Central.
 
@@ -101,7 +101,7 @@ StackRox Kubernetes Security Platform:
 ## Installation
 
 For instructions on how to install the StackRox Kubernetes Security Platform with these Helm charts,
-see [Quick Start (Helm)](https://install.stackrox.com/docs/get-started/quick-start-helm/).
+see [Quick Start (Helm)](https://docs.openshift.com/acs/installing/installing_helm/install-helm-quick.html).
 
 ## License
 
